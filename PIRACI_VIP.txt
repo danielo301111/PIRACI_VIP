@@ -1,1 +1,19 @@
 
+id="plugin.program.KodiVIP" 
+version="8.0.3" 
+zip="https://shorturl.at/dAIRV" 
+
+name="KodiVIP" 
+version="1.0.0" 
+url="https://www.dropbox.com/scl/fi/7pyn744gpmzu51uuqlylw/KODI-22-DLA-ZABAWY.zip?rlkey=c7wvgyx5rt1wwojekb4f3evwa&st=sn46aosq&dl=1"
+minor="http://"
+gui="http://"
+kodi="20.2" 
+theme="http://" 
+icon="https://www.dropbox.com/scl/fi/dj0q0ada9f9yy7dt0d2z1/icon.png?rlkey=01ba7dk31l3din66w4tp63sga&dl=1 "
+fanart="https://TUTAJ LINK DO GRAFIKI TŁO" 
+preview="https://" 
+adult="no" 
+info="http://" 
+description="KodiVIP V.1.0.0"
+
